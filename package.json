@@ -1,5 +1,5 @@
 {
-  "name": "react-async-poll",
+  "name": "react-async-poll-improved",
   "version": "1.0.0",
   "description": "Polling for data in React made easy.",
   "keywords": [
@@ -14,7 +14,7 @@
   ],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/cameronbourke/react-async-poll.git"
+		"url": "https://github.com/Vargentum/react-async-poll.git"
 	},
   "scripts": {
     "start": "node server",
